@@ -22,7 +22,9 @@ This project aimed to enhance the security and management of Azure resources by 
 ## Steps
 Create a VM<img width="1470" alt="Screenshot 2024-05-13 at 11 19 39 PM" src="https://github.com/Hunter102002/Layered-Security-AWS-VPC/assets/98543129/f74ec51e-74ec-4022-9ee9-061f5ff2e20a">
 
-Under setting find "locks" and create a new lock<img width="356" alt="Screenshot 2024-05-13 at 11 20 12 PM" src="https://github.com/Hunter102002/Layered-Security-AWS-VPC/assets/98543129/e9498fdf-baa1-4e11-b729-e5e49ff94902">
+Under setting find "locks" and create a new lock
+
+<img width="356" alt="Screenshot 2024-05-13 at 11 20 12 PM" src="https://github.com/Hunter102002/Layered-Security-AWS-VPC/assets/98543129/e9498fdf-baa1-4e11-b729-e5e49ff94902">
 
 Try to delete the VM
 
