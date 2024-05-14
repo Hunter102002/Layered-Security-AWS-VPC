@@ -1,4 +1,4 @@
-# Configure Layered Security - AWS VPC
+# Implement Azure Resource Locks
 
 ## Objective
 
